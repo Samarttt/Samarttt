@@ -1,82 +1,75 @@
+🎯 [SAMARTH HISHOBKAR]
+Turning Data Into Decisions
 
-🚀 Meet Samarth Hishobkar – Data Analyst in the Making
-🔍 Passionate about solving real-world problems with data
+📍 Belgaum, Karnataka | 🎓 Final-Year BCA @ Jain College | 📈 Data Analyst Intern @ RineTech, Bangalore
+📧 hishobkarsamarth@gmail.com | 📞 +91 8088776261 | 🔗 LinkedIn | Portfolio | GitHub
 
-📍 Belgaum, Karnataka
-🎓 Final Year BCA Student at Jain College
-📊 Data Analyst Intern at RineTech Internet Pvt. Ltd., Bangalore
+🧠 What I Bring to the Table
+Color code:
+🔹 Sky Blue – Technical skills
+🟢 Emerald Green – Insights
+🟣 Royal Purple – Creativity
+🟡 Amber Yellow – Soft skills
 
-💼 What I Do:
-I collect, clean, and transform raw data into actionable insights using tools like Python, SQL, Excel, Power BI, and Tableau. I build dashboards, automate workflows, and perform statistical analysis to support data-driven decisions.
+💬 “I believe in stories hidden in rows and columns. My work is to uncover them with code and curiosity.”
 
-🔧 Tools & Skills:
-Data Wrangling & Visualization: Pandas, Excel, Power BI, Tableau
+🔹 Data Whisperer
+Python, SQL, Excel, Power BI, Tableau – your data’s best friends.
 
-Programming: Python, SQL, Jupyter Notebook
+Automated complex data flows using Python and SQL for real-time insights.
 
-Statistical Techniques: Time Series, Forecasting, Hypothesis Testing
+Built dashboards that talk business – not just numbers.
 
-Automation & Reporting: Web Scraping, Workflow Optimization
+🟢 Analyst by Mind, Storyteller by Soul
+Turned sales chaos into seasonal patterns (📈 Walmart Sales Project).
 
-Collaboration: Git, GitHub, VS Code
+Scraped and decoded hiring trends from 500+ job posts (💼 LinkedIn Project).
 
-📈 Projects that Define Me:
-🔮 Walmart Sales Forecasting
+Predicted market momentum using RSI and MA (📊 Stock Trend Analysis).
 
-Analyzed department-level and store-level sales using Time Series Analysis
+Mapped fitness and sleep patterns from wearable tech (🏃 Fitbit Tracker).
 
-Forecasted trends and seasonality using moving averages and statistical modeling
+🟣 Creative Data Projects
+🎯 Walmart Sales Forecasting
+🛍️ Visualized store performance, cleaned data noise, forecasted revenue using time-series analysis.
+🛠️ Tools: Python, Pandas, Seaborn
+📎 GitHub | Medium
 
-GitHub | Medium Article
+🎯 LinkedIn Job Trend Mining
+📄 Web scraped job listings, analyzed skill demand with WordClouds and NLP.
+🛠️ Tools: Selenium, Pandas
+📎 GitHub
 
-💼 LinkedIn Job Trends
+🎯 Stock Market Pattern Analysis
+💹 Visualized MA/RSI signals, built dynamic dashboards for AAPL, GOOGL, AMZN.
+🛠️ Tools: yfinance, Plotly, Matplotlib
+📎 GitHub
 
-Scraped 500+ job postings using Selenium
+🎯 Fitbit Fitness Tracker Analysis
+🏃‍♂️ Correlated calories burned with sleep, visualized with heatmaps.
+🛠️ Tools: Pandas, Seaborn
+📎 GitHub
 
-Visualized skill demand with WordClouds and keyword analysis
+🎓 Certified & Future-Ready
+🧠 Goldman Sachs Virtual Internship – Engineering & System Design
+💸 JPMorgan Chase – Fintech, AI & Blockchain
+📊 Deloitte Australia – Data Analytics & Insights
 
-GitHub
+🛠️ Tech Stack
+Category	Tools & Skills
+Languages	Python, SQL
+Libraries	Pandas, NumPy, Seaborn, Matplotlib, yfinance
+BI Tools	Power BI, Tableau, Excel (Pivot Tables, Power Query)
+Data Sources	MySQL, APIs, Web Scraping, Real-time Feeds
+Stat Techniques	Time Series, Hypothesis Testing, KPI Tracking, Forecasting
+Dev Tools	Git, GitHub, VS Code, Jupyter Notebook
 
-📊 Stock Market Analysis
+🧩 My Edge
+✔️ Real projects with measurable impact
+✔️ Creativity meets statistics
+✔️ Fast learner, proactive team player
+✔️ Hungry for mentorship & opportunities
 
-Technical indicators (RSI, MA) on Apple, Google, and Amazon stocks
-
-Built trading signal systems using real-time yfinance data
-
-GitHub
-
-🏃 Fitbit Fitness Tracker
-
-Uncovered daily health patterns using time-series and correlation
-
-Visual dashboards to track sleep, steps, and calorie trends
-
-GitHub
-
-🎓 Certifications
-💼 Virtual Internship – Data Analytics @ Deloitte Australia
-
-💡 Fintech, AI & Blockchain – JPMorgan Chase
-
-🧱 Software Engineering & System Design – Goldman Sachs
-
-🌐 My Digital Presence
-🔗 LinkedIn
-
-📂 Portfolio Site
-
-💻 GitHub
-
-🌟 Buildup Style Suggestions (like her):
-If you want to present this visually like her:
-
-Create a 30-60 second Instagram Reel or LinkedIn video:
-
-B-roll: working on laptop, coding, dashboards
-
-On-screen captions like: "Built 4+ data-driven projects", "Automated workflows with Python"
-
-Use tools like Canva, CapCut, or InVideo to animate project names, graphs, or GitHub contributions.
-
-End with a CTA:
-“Open to internships and full-time Data Analyst roles – Let’s connect!”
+🚀 Let’s Connect!
+💬 Open to internships & full-time opportunities in Data Analytics, BI, and Data Science.
+🎥 Planning to release my Data Analyst Journey video reel soon—stay tuned!
