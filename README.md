@@ -1,4 +1,4 @@
-🎯 [SAMARTH HISHOBKAR]
+🎯 SAMARTH HISHOBKAR
 Turning Data Into Decisions
 
 📍 Belgaum, Karnataka | 🎓 Final-Year BCA @ Jain College | 📈 Data Analyst Intern @ RineTech, Bangalore
